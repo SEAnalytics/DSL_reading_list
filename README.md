@@ -2,11 +2,15 @@
 This is the of papers that we have been set to read. I will add links to the papers as soft copies become avaliable. I have made this directory writable by everyone so you can upload papers as you find them
 Further, I have started to compile a bibtex file of the articles in this list. You can get it here.The mark [b] means that this article is in the bibtex database.
 Graham
-Nonmonotonic Logics
-Default Logic
+
+## Nonmonotonic Logics
+### Default Logic
 R. Reiter (1980). A logic for default reasoning. Artificial Intelligence, 13:81-132.[b]
+
 J. P. Delgrande, T. Schaub, and W. K. Jackson (1994). Alternative approaches to default logic. Artificial Intelligence, 70:167-237.[b]
+
 J. Delgrande and T. Schaub (2003). On the relation between Reiter's default logic and its (major) variants. In Seventh European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2003), pages 452-463.[b]
+
 Defeasible Logic/Argumentation
 D. Nute (1994). Defeasible logic. In Handbook of logic in artificial intelligence and logic programming, volume 3: Nonmonotonic reasoning and uncertain reasoning, pages 353-395. Oxford University Press.
 Logical models of argument, Carlos Chesnevar, et al., ACM Computing Surveys 32:4, 2000. Logics for defeasible argumentation, Henry Prakken and Gerard Vreeswijk, in Handbook of Philosophical Logic, Dov M. Gabbay, Franz Guenthner, eds., Kluwer, 2002.
